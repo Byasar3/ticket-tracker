@@ -1,0 +1,12 @@
+.counter {
+	border: 2px solid black;
+	padding: 7px;
+
+	&__button {
+		background: none;
+		border: none;
+		font-size: 25px;
+		padding-left: 10px;
+		padding-right: 5px;
+	}
+}
