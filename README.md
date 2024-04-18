@@ -20,4 +20,4 @@
 
 ### End goal product
 
-![End goal image](image.png)
+![End goal image](src/assets/image.png)
